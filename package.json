@@ -1,0 +1,28 @@
+{
+  "name": "demo-node-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adarshasnah/demo-node-api.git"
+  },
+  "author": "Adarsh Hasnah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adarshasnah/demo-node-api/issues"
+  },
+  "homepage": "https://github.com/adarshasnah/demo-node-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-nodemon": "^2.4.2"
+  }
+}
